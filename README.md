@@ -12,12 +12,12 @@
 
 ## 🚀 About Me
 
-- 🛠 I enjoy creating products that solve real-world problems
-- 🤖 Exploring AI workflows, automation systems & intelligent applications
-- ⚡ Building scalable full-stack systems using Django, Docker & PostgreSQL
-- 📈 Interested in fintech engineering, backend systems & AI-powered products
-- 🎯 Hackathon builder focused on execution, product thinking & meaningful impact
-- 🎨 Combining engineering with UI/UX and product design
+- 🛠 I like building projects that solve practical, real-world problems
+- 📈 Interested in fintech, backend systems & intelligent product design
+- 🤖 Exploring AI workflows, automation tools & scalable web applications
+- 🎯 Enjoy hackathons, fast prototyping & turning ideas into working products
+- 🎨 Designed interfaces and product experiences for platforms like arexa.co & bharatxr.co
+- 🌱 Currently improving my full-stack development and system design skills
 
 ---
 
@@ -97,6 +97,15 @@ Object-oriented 2D game built in Unity featuring enemy AI, collision systems, sc
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punyamahajan&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 💼 Product & Design Experience
+
+Worked on real-world product interfaces and digital experiences for:
+
+- 🔗 [Arexa](https://arexa.co)
+- 🔗 [BharatXR](https://bharatxr.co)
 
 ---
 
