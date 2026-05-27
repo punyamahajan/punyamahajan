@@ -15,7 +15,6 @@
 - 🛠 I like building projects that solve practical, real-world problems
 - 📈 Interested in fintech, backend systems & intelligent product design
 - 🤖 Exploring AI workflows, automation tools & scalable web applications
-- 🎯 Enjoy hackathons, fast prototyping & turning ideas into working products
 - 🎨 Designed interfaces and product experiences for platforms like arexa.co & bharatxr.co
 - 🌱 Currently improving my full-stack development and system design skills
 
