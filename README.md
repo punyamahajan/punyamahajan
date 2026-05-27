@@ -53,36 +53,6 @@
 
 ---
 
-## 🔥 Featured Projects
-
-### 💸 FairSplit AI
-AI-powered expense coordination platform with fairness-aware debt simplification, selective participation & automated repayment workflows.
-
-**Tech:** Django • PostgreSQL • Docker • n8n • REST APIs
-
----
-
-### 📊 Volatility-Regime Adaptive Trading Framework
-Quantitative options trading framework using SPY/VIX volatility regime analysis, Black-Scholes pricing & Greeks-based risk management.
-
-**Tech:** Python • NumPy • Pandas • SciPy • Alpaca API
-
----
-
-### 🤖 AI Automation Systems
-Automation workflows integrating APIs, LLMs, notifications & intelligent orchestration using modern automation tooling.
-
-**Tech:** n8n • APIs • Docker • AI Workflows
-
----
-
-### 🎮 Unity 2D Shooter Game
-Object-oriented 2D game built in Unity featuring enemy AI, collision systems, scoring mechanics & optimized gameplay systems.
-
-**Tech:** Unity • C#
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -99,7 +69,7 @@ Object-oriented 2D game built in Unity featuring enemy AI, collision systems, sc
 
 ---
 
-## 💼 Product & Design Experience
+## 💼 Yes I Actually designed these!!
 
 Worked on real-world product interfaces and digital experiences for:
 
