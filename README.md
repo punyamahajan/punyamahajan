@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:FF8FC4,100:FF1493&height=200&section=header&text=Punya%20Mahajan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Dev%20%E2%80%A2%20%20%20%E2%80%A2%20Risk%20Analytics%20%F0%9F%8D%92%E2%9C%A8&descAlignY=58&descSize=18&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:FF8FC4,100:FF1493&height=200&section=header&text=Punya%20Mahajan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc%20%20%E2%80%A2%20%20%20%E2%80%A2%20%20%20%F0%9F%8D%92%E2%9C%A8&descAlignY=58&descSize=18&descColor=ffffff"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FF1493&background=00000000&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+BML+Munjal+University+%E2%9C%A8;Building+AI-powered+%26+Quant+Finance+systems+%F0%9F%92%96;Hackathons+%E2%80%A2+Options+Strategies+%E2%80%A2+Full-Stack+%F0%9F%8C%B8)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FF1493&background=00000000&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+BML+Munjal+University+%E2%9C%A8;%26+Solving+Real+World+Problems+%F0%9F%92%96;Hackathons+%E2%80%A2+Options+Strategies+%E2%80%A2+Full-Stack+%F0%9F%8C%B8)
 
 <p>
 <a href="https://www.linkedin.com/in/punyamahajan/"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
