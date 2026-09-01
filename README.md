@@ -52,14 +52,9 @@
 ## 💖 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=punyamahajan&show_icons=true&bg_color=00000000&title_color=FF1493&icon_color=FF69B4&text_color=4A4A4A&hide_border=true&count_private=true" height="165"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=punyamahajan&show_icons=true&bg_color=00000000&title_color=FF1493&icon_color=FF69B4&text_color=4A4A4A&hide_border=true&count_private=true" height="165"/> -->
 <img src="https://streak-stats.demolab.com/?user=punyamahajan&background=00000000&border=00000000&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493&sideLabels=4A4A4A&currStreakNum=4A4A4A&sideNums=4A4A4A&dates=A9A9A9&hide_border=true" height="165"/>
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punyamahajan&layout=compact&bg_color=00000000&title_color=FF1493&text_color=4A4A4A&hide_border=true" height="165"/>
-</p>
-
 <br>
 
 ## 🌷 Real-World Product Work
